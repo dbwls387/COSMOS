@@ -11,7 +11,7 @@
 |이상찬|Back-End & CI/CD & Data processing|
 |김혜지|Front-End 총괄 & Kakao API|
 |김정윤|Front-End & TMap API|
-|반유진|Front-end & SSE|
+|반유진|Front-end & Back-End|
 
 ## 📖 프로젝트 소개
 
